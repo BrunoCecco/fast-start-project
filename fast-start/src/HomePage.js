@@ -1,15 +1,27 @@
+
 import React, {useEffect, useState} from 'react';
 import './HomePage.css';
 
 function HomePage() {
 
-    useEffect(() => {       
-    })
+    const [countries, setCountries] = useState(
+        [{
+            countryName: "Russia",
+            population: 10000000
+        }]
+    );
 
+    useEffect(() => { 
+
+    })
 
     return (
         <div className="HomePage">
-            <p>hi</p>
+            {countries.map(country => {
+                <div>
+                    {countries[0].population}
+                </div>
+            })}       
         </div>
     );
 }
