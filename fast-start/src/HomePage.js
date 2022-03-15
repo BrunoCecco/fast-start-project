@@ -9,27 +9,60 @@ function HomePage() {
             capital: "Rome",
             flagImage: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png?20111003040337"                  
         },
-        'England' : {                         
+        'England' : {     
+            population: 56.0, // million
+            capital: "London",
+            flagImage: "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"                  
         },
-        'France' : {                         
+        'France' : {  
+            population: 67.4, // million
+            capital: "Paris",
+            flagImage: "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"                      
         },
-        'Scotland' : {                         
+        'Scotland' : {   
+            population: 5.5, // million
+            capital: "Edinburgh",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg"                    
         },
-        'Germany' : {                         
+        'Germany' : {  
+            population: 83.2, // million
+            capital: "Berlin",
+            flagImage: "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"                      
         },
-        'Spain' : {                         
+        'Spain' : {   
+            population: 47.4, // million
+            capital: "Madrid",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg"                    
         },
-        'Switzerland' : {                         
+        'Switzerland' : {
+            population: 8.6, // million
+            capital: "Bern",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"                        
         },
-        'Wales' : {                         
+        'Wales' : {     
+            population: 3.1, // million
+            capital: "Cardiff",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg"                
         },
-        'Finland' : {                         
+        'Finland' : {   
+            population: 5.5, // million
+            capital: "Helsinki",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"                     
         },
-        'Austria' : {                         
+        'Austria' : { 
+            population: 8.9, // million
+            capital: "Vienna",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"                        
         },
-        'Sweden' : {                         
+        'Sweden' : { 
+            population: 10.4, // million
+            capital: "Stockholm",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"                       
         },
-        'Norway' : {                         
+        'Norway' : {   
+            population: 5.4, // million
+            capital: "Oslo",
+            flagImage: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"                  
         }               
     }
     );
