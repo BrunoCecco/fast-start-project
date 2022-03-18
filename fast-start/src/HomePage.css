@@ -24,7 +24,10 @@ h2 {
     padding: 1rem;
     text-align: center;
     position: relative;
-    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+    height: 8rem;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 

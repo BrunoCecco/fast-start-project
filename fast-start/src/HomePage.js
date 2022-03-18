@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import {Link} from 'react-router-dom';
 import './HomePage.css';
 
 function HomePage() {
@@ -73,11 +74,13 @@ function HomePage() {
             <div className="countries-grid">
                 {Object.entries(countries).map(([country, details], index) => { // loop through countries, returning a grid box for each one
                     return (
-                        <a style={{backgroundImage: `url(${details.flagImage}` }} href={"/" + country} key={index} className="grid-box">                            
-                            <p>{country}</p>
-                            <p>Population: {details.population}m</p>
-                            <p>Capital: {details.capital}</p>
-                        </a>
+                        <Link style={{backgroundImage: `url(${details.flagImage}` }} 
+                        to={{
+                            pathname: "/" + country
+                        }} 
+                        state={details}
+                        key={index} 
+                        className="grid-box" />                                                                                
                     )
                 })}       
             </div>
