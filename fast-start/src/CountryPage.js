@@ -29,16 +29,19 @@ function CountryPage() {
     return (
         <div className="country-page">
             <h2>{country}</h2>  
-            <p>{capital}</p>   
-            <p>{population}</p>
-            <p>{currency}</p>
-            <p>{language}</p>
-            <div className = "phrases">
+            <div className="facts">
+                <p>Capital: {capital}</p>   
+                <p>Population: {population}</p>
+                <p>Currency: {currency}</p>
+                <p>Language: {language}</p>
+            </div>
+            <div class="circular-sb">
                 <p>{phrase1}</p>
                 <p>{phrase2}</p>
-                <p>{phrase3}</p>
+                <p>{phrase3}</p>                
+                <div class="circle1"></div>
+                <div class="circle2"></div>
             </div>
-
         </div>
     );
 }
