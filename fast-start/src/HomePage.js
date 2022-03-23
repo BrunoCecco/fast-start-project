@@ -15,7 +15,7 @@ function HomePage() {
             phrase2: "",
             phrase3: "",
             image1:"https://unsplash.com/photos/rknrvCrfS1k",
-            image2: "https://unsplash.com/photos/Qq1fwSLM0N0"
+            image2: "https://images.unsplash.com/photo-1528114039593-4366cc08227d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
         },
         'England' : {     
             population: 56.0, // million
@@ -24,10 +24,10 @@ function HomePage() {
             currency: "Pound sterling",
             language: "English", 
             phrase1: "Hi, how are you?",
-            phrase2: "I'm fine, how about yourself?",
-            phrase3: "I'm well, thank you.",
-            image1:"https://unsplash.com/photos/W1Y4Y_DBGKw",
-            image2: "https://unsplash.com/photos/x0RBBSdOZQU"               
+            phrase2: "",
+            phrase3: "",
+            image1:"https://images.unsplash.com/photo-1569865867048-34cfce8d58fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=378&q=80",
+            image2: "https://images.unsplash.com/photo-1565264044113-c7292ee9b1d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"               
         },
         'France' : {  
             population: 67.4, // million
@@ -47,11 +47,11 @@ function HomePage() {
             flagImage: "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
             currency: "Pound sterling",
             language: "English, Scots",
-            phrase1: "Halò, ciamar a tha thu?",
+            phrase1: "",
             phrase2: "",
             phrase3: "",
-            image1: "https://images.app.goo.gl/Cp446AawvmNDMCPM7",
-            image2: "https://images.app.goo.gl/ZW9PxGhFzMRxiaTm7"                
+            image1:"https://www.planetware.com/wpimages/2020/01/scotland-in-pictures-beautiful-places-to-photograph-kilchurn-castle.jpg",
+            image2: "https://media.gadventures.com/media-server/cache/74/93/7493a191de5a82c29b247c22c088564b.jpg"                
         },
         'Germany' : {  
             population: 83.2, // million
@@ -61,7 +61,7 @@ function HomePage() {
             language: "German",  
             phrase1: "Hallo, wie geht's?",
             phrase2: "Gut und dir?",
-            phrase3: "Auch gut, danke.",
+            phrase3: "Auch gut, danke",
             image1: "https://images.app.goo.gl/YgNKWzkfdM3FTJXA9",
             image2: "https://images.app.goo.gl/EsU2FGaP9hnm4zC36"                
         },
@@ -72,10 +72,8 @@ function HomePage() {
             currency: "Euro",
             language: "Spanish", 
             phrase1: "Hola, ¿cómo estás?",
-            phrase2: "",
-            phrase3: "",
-            image1: "https://images.app.goo.gl/RYrsfQJTctdmCigv8",
-            image2: "https://images.app.goo.gl/ZdcA2bPqPeN26G2Z7"
+            phrase2: "https://images.app.goo.gl/RYrsfQJTctdmCigv8",
+            phrase3: "https://images.app.goo.gl/ZdcA2bPqPeN26G2Z7"
         },
         'Switzerland' : {
             population: 8.6, // million
@@ -95,7 +93,8 @@ function HomePage() {
             language: "English, Welsh",         
             phrase1: "Helô, shw mae?",
             phrase2: "",
-            phrase3: ""       
+            phrase3: "",       
+            image1: ""
         },
         'Finland' : {   
             population: 5.5, // million
