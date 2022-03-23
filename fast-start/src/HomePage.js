@@ -24,8 +24,8 @@ function HomePage() {
             currency: "Pound sterling",
             language: "English", 
             phrase1: "Hi, how are you?",
-            phrase2: "",
-            phrase3: "",
+            phrase2: "I'm fine, how about yourself?",
+            phrase3: "I'm well, thank you.",
             image1:"https://unsplash.com/photos/W1Y4Y_DBGKw",
             image2: "https://unsplash.com/photos/x0RBBSdOZQU"               
         },
@@ -47,10 +47,10 @@ function HomePage() {
             flagImage: "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
             currency: "Pound sterling",
             language: "English, Scots",
-            phrase1: "",
+            phrase1: "Halò, ciamar a tha thu?",
             phrase2: "",
             phrase3: "",
-            image1:"https://images.app.goo.gl/Cp446AawvmNDMCPM7",
+            image1: "https://images.app.goo.gl/Cp446AawvmNDMCPM7",
             image2: "https://images.app.goo.gl/ZW9PxGhFzMRxiaTm7"                
         },
         'Germany' : {  
@@ -61,7 +61,7 @@ function HomePage() {
             language: "German",  
             phrase1: "Hallo, wie geht's?",
             phrase2: "Gut und dir?",
-            phrase3: "Auch gut, danke",
+            phrase3: "Auch gut, danke.",
             image1: "https://images.app.goo.gl/YgNKWzkfdM3FTJXA9",
             image2: "https://images.app.goo.gl/EsU2FGaP9hnm4zC36"                
         },
@@ -72,8 +72,10 @@ function HomePage() {
             currency: "Euro",
             language: "Spanish", 
             phrase1: "Hola, ¿cómo estás?",
-            phrase2: "https://images.app.goo.gl/RYrsfQJTctdmCigv8",
-            phrase3: "https://images.app.goo.gl/ZdcA2bPqPeN26G2Z7"
+            phrase2: "",
+            phrase3: "",
+            image1: "https://images.app.goo.gl/RYrsfQJTctdmCigv8",
+            image2: "https://images.app.goo.gl/ZdcA2bPqPeN26G2Z7"
         },
         'Switzerland' : {
             population: 8.6, // million
