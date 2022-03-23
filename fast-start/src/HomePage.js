@@ -39,7 +39,7 @@ function HomePage() {
             phrase2: "",
             phrase3: "",
             image1:"https://unsplash.com/photos/CB0Qrf8ib4I",
-            image2: ""               
+            image2: "https://images.app.goo.gl/n49ZgijDGdD9CRRe6"               
         },
         'Scotland' : {   
             population: 5.5, // million
