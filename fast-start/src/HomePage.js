@@ -12,7 +12,7 @@ function HomePage() {
             currency: "Euro",
             language: "Italian",
             phrase1: "Ciao, come stai?",
-            phrase2: "",
+            phrase2: "Tutto bene",
             phrase3: "",
             image1:"https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
             image2: "https://images.unsplash.com/photo-1528114039593-4366cc08227d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
@@ -24,7 +24,7 @@ function HomePage() {
             currency: "Pound sterling",
             language: "English", 
             phrase1: "Hi, how are you?",
-            phrase2: "",
+            phrase2: "I'm fine, thank you.",
             phrase3: "",
             image1:"https://images.unsplash.com/photo-1569865867048-34cfce8d58fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=378&q=80",
             image2: "https://images.unsplash.com/photo-1565264044113-c7292ee9b1d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"               
@@ -36,7 +36,7 @@ function HomePage() {
             currency: "Euro",
             language: "French",   
             phrase1: "Comment ça va?",
-            phrase2: "",
+            phrase2: "Très bien, merci",
             phrase3: "",
             image1:"https://media.istockphoto.com/photos/eiffel-tower-in-paris-skyline-at-dawn-picture-id1280246120?b=1&k=20&m=1280246120&s=170667a&w=0&h=9g8hb-FTp7TfrN6gItpxDFKG0wPjwvnZQlNHZaxyeeI=",
             image2: "https://media.cntraveler.com/photos/612ebcb802280b85918ca936/master/w_4000,h_2666,c_limit/Villefranche-sur-Mer-France-GettyImages-1248448159.jpg"               
@@ -47,8 +47,8 @@ function HomePage() {
             flagImage: "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
             currency: "Pound sterling",
             language: "English, Scots",
-            phrase1: "",
-            phrase2: "",
+            phrase1: "Ciamar a tha thu?",
+            phrase2: "Tha gu math.",
             phrase3: "",
             image1:"https://www.planetware.com/wpimages/2020/01/scotland-in-pictures-beautiful-places-to-photograph-kilchurn-castle.jpg",
             image2: "https://media.gadventures.com/media-server/cache/74/93/7493a191de5a82c29b247c22c088564b.jpg"                
@@ -60,8 +60,8 @@ function HomePage() {
             currency: "Euro",
             language: "German",  
             phrase1: "Hallo, wie geht's?",
-            phrase2: "Gut und dir?",
-            phrase3: "Auch gut, danke.",
+            phrase2: "Gut, danke.",
+            phrase3: "",
             image1: "https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-neuschwanstein-castle-bavaria.jpg",
             image2: "https://media.istockphoto.com/photos/berlin-skyline-with-spree-river-at-sunset-germany-picture-id486585530?k=20&m=486585530&s=612x612&w=0&h=FnNkM2BgTNv5-WQUpT2iB5R_0YSeW32RnLP7FYzOVVY="                
         },
@@ -72,7 +72,7 @@ function HomePage() {
             currency: "Euro",
             language: "Spanish", 
             phrase1: "Hola, ¿cómo estás?",
-            phrase2: "",
+            phrase2: "Muy bien, gracias.",
             phrase3: "",
             image1: "http://cdn.cnn.com/cnnnext/dam/assets/201230111539-barcelona.jpg",
             image2: "https://cdn.cnn.com/cnnnext/dam/assets/170706113411-spain.jpg"
@@ -84,7 +84,7 @@ function HomePage() {
             currency: "Swiss franc",
             language: "German, French, Italian, Romansh", 
             phrase1: "Hi, wie gohts?",
-            phrase2: "",
+            phrase2: "Mir gahts guet",
             phrase3: "",                           
             image1: "https://cdn.britannica.com/65/162465-050-9CDA9BC9/Alps-Switzerland.jpg",
             image2: "https://www.expatica.com/app/uploads/sites/9/2017/07/cost-of-living-in-switzerland-1920x1080.jpg"
@@ -96,7 +96,7 @@ function HomePage() {
             currency: "Pound sterling",
             language: "English, Welsh",         
             phrase1: "Helô, shw mae?",
-            phrase2: "",
+            phrase2: "Da iawn, diolch.",
             phrase3: "",       
             image1: ""
         },
@@ -107,7 +107,7 @@ function HomePage() {
             currency: "Euro",
             language: "Finnish",
             phrase1: "Hei, mitä kuuluu?",
-            phrase2: "",
+            phrase2: "Voin hyvin.",
             phrase3: "",
             image1: "https://new.visitfinland.com/dam/jcr:10100117-5154-4a6d-afb7-56502939f9e3/___Finland_Aurora_dome_Jeris_Antti_Pietik%C3%A4inen.12422788202013340987.jpg",
             image2: "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/y7EZk77pNN/original_AR_Finland-Kakslauttanen_Kelo-glass_Igloo.jpg"            
@@ -118,8 +118,8 @@ function HomePage() {
             flagImage: "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
             currency: "Euro",
             language: "German", 
-            phrase1: "Hallo, wie geht's dir?",
-            phrase2: "", 
+            phrase1: "Servus, wie geht's dir?",
+            phrase2: "Gut, danke.", 
             phrase3: "",
             image1: "https://www.planetware.com/wpimages/2019/11/austria-in-pictures-most-beautiful-places-hallstatt.jpg",
             image2: "https://media.istockphoto.com/photos/hallstatt-village-in-austria-picture-id507489863?k=20&m=507489863&s=612x612&w=0&h=Y2acddjn3n4yZBAtapDsUNQI4X-3Z_d0cRnASSZhIY0="            
@@ -131,7 +131,7 @@ function HomePage() {
             currency: "Swedish krona",
             language: "Swedish",   
             phrase1: "Hei, hur är du?",
-            phrase2: "",
+            phrase2: "Jag mår bra.",
             phrase3: "",
             image1: "https://www.planetware.com/wpimages/2020/02/sweden-in-pictures-beautiful-places-to-photograph.jpg",
             image2: "https://www.commonwealthfund.org/sites/default/files/styles/countries_hero_desktop/public/country_image_Sweden.jpg?h=7115b1d8&itok=Cr7aTYFE"            
@@ -143,7 +143,7 @@ function HomePage() {
             currency: "Norwegian krone",
             language: "Norwegian",
             phrase1: "Hei, hvordan går det med deg?",
-            phrase2: "",
+            phrase2: "Jeg har det bra.",
             phrase3: "" ,
             image1: "https://media.cntraveler.com/photos/5a2fdec837dada794e16bd22/master/pass/Geirangerfjord-GettyImages-482832914.jpg",
             image2: "https://media.istockphoto.com/photos/view-on-bruges-picture-id494611794?k=20&m=494611794&s=612x612&w=0&h=GtwLqJ3YUpEnW8ex5-pNT3yzdgRC3xFrIo5bkinN5VM="            
