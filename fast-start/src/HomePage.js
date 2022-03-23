@@ -72,8 +72,10 @@ function HomePage() {
             currency: "Euro",
             language: "Spanish", 
             phrase1: "Hola, ¿cómo estás?",
-            phrase2: "https://images.app.goo.gl/RYrsfQJTctdmCigv8",
-            phrase3: "https://images.app.goo.gl/ZdcA2bPqPeN26G2Z7"
+            phrase2: "",
+            phrase3: "",
+            image1: "http://cdn.cnn.com/cnnnext/dam/assets/201230111539-barcelona.jpg",
+            image2: "https://cdn.cnn.com/cnnnext/dam/assets/170706113411-spain.jpg"
         },
         'Switzerland' : {
             population: 8.6, // million
