@@ -14,8 +14,8 @@ function HomePage() {
             phrase1: "Ciao, come stai?",
             phrase2: "",
             phrase3: "",
-            image1:"https://unsplash.com/photos/rknrvCrfS1k",
-            image2: "https://unsplash.com/photos/Qq1fwSLM0N0"
+            image1:"https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            image2: "https://images.unsplash.com/photo-1528114039593-4366cc08227d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
         },
         'England' : {     
             population: 56.0, // million
@@ -38,8 +38,8 @@ function HomePage() {
             phrase1: "Comment ça va?",
             phrase2: "",
             phrase3: "",
-            image1:"https://unsplash.com/photos/CB0Qrf8ib4I",
-            image2: "https://images.app.goo.gl/n49ZgijDGdD9CRRe6"               
+            image1:"https://media.istockphoto.com/photos/eiffel-tower-in-paris-skyline-at-dawn-picture-id1280246120?b=1&k=20&m=1280246120&s=170667a&w=0&h=9g8hb-FTp7TfrN6gItpxDFKG0wPjwvnZQlNHZaxyeeI=",
+            image2: "https://media.cntraveler.com/photos/612ebcb802280b85918ca936/master/w_4000,h_2666,c_limit/Villefranche-sur-Mer-France-GettyImages-1248448159.jpg"               
         },
         'Scotland' : {   
             population: 5.5, // million
@@ -62,8 +62,8 @@ function HomePage() {
             phrase1: "Hallo, wie geht's?",
             phrase2: "Gut und dir?",
             phrase3: "Auch gut, danke.",
-            image1: "https://images.app.goo.gl/YgNKWzkfdM3FTJXA9",
-            image2: "https://images.app.goo.gl/EsU2FGaP9hnm4zC36"                
+            image1: "https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-neuschwanstein-castle-bavaria.jpg",
+            image2: "https://media.istockphoto.com/photos/berlin-skyline-with-spree-river-at-sunset-germany-picture-id486585530?k=20&m=486585530&s=612x612&w=0&h=FnNkM2BgTNv5-WQUpT2iB5R_0YSeW32RnLP7FYzOVVY="                
         },
         'Spain' : {   
             population: 47.4, // million
@@ -84,8 +84,10 @@ function HomePage() {
             currency: "Swiss franc",
             language: "German, French, Italian, Romansh", 
             phrase1: "Hi, wie gohts?",
-            phrase2: "https://cdn.britannica.com/65/162465-050-9CDA9BC9/Alps-Switzerland.jpg",
-            phrase3: "https://www.expatica.com/app/uploads/sites/9/2017/07/cost-of-living-in-switzerland-1920x1080.jpg"                           
+            phrase2: "",
+            phrase3: "",                           
+            image1: "https://cdn.britannica.com/65/162465-050-9CDA9BC9/Alps-Switzerland.jpg",
+            image2: "https://www.expatica.com/app/uploads/sites/9/2017/07/cost-of-living-in-switzerland-1920x1080.jpg"
         },
         'Wales' : {     
             population: 3.1, // million
