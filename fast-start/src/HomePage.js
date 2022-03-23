@@ -82,8 +82,8 @@ function HomePage() {
             currency: "Swiss franc",
             language: "German, French, Italian, Romansh", 
             phrase1: "Hi, wie gohts?",
-            phrase2: "",
-            phrase3: ""                           
+            phrase2: "https://cdn.britannica.com/65/162465-050-9CDA9BC9/Alps-Switzerland.jpg",
+            phrase3: "https://www.expatica.com/app/uploads/sites/9/2017/07/cost-of-living-in-switzerland-1920x1080.jpg"                           
         },
         'Wales' : {     
             population: 3.1, // million
@@ -103,7 +103,9 @@ function HomePage() {
             language: "Finnish",
             phrase1: "Hei, mitä kuuluu?",
             phrase2: "",
-            phrase3: ""                 
+            phrase3: "",
+            image1: "https://new.visitfinland.com/dam/jcr:10100117-5154-4a6d-afb7-56502939f9e3/___Finland_Aurora_dome_Jeris_Antti_Pietik%C3%A4inen.12422788202013340987.jpg",
+            image2: "https://afar-production.imgix.net/uploads/images/afar_post_headers/images/y7EZk77pNN/original_AR_Finland-Kakslauttanen_Kelo-glass_Igloo.jpg"            
         },
         'Austria' : { 
             population: 8.9, // million
@@ -113,7 +115,9 @@ function HomePage() {
             language: "German", 
             phrase1: "Hallo, wie geht's dir?",
             phrase2: "", 
-            phrase3: ""             
+            phrase3: "",
+            image1: "https://www.planetware.com/wpimages/2019/11/austria-in-pictures-most-beautiful-places-hallstatt.jpg",
+            image2: "https://media.istockphoto.com/photos/hallstatt-village-in-austria-picture-id507489863?k=20&m=507489863&s=612x612&w=0&h=Y2acddjn3n4yZBAtapDsUNQI4X-3Z_d0cRnASSZhIY0="            
         },
         'Sweden' : { 
             population: 10.4, // million
@@ -123,7 +127,9 @@ function HomePage() {
             language: "Swedish",   
             phrase1: "Hei, hur är du?",
             phrase2: "",
-            phrase3: ""                 
+            phrase3: "",
+            image1: "https://www.planetware.com/wpimages/2020/02/sweden-in-pictures-beautiful-places-to-photograph.jpg",
+            image2: "https://www.commonwealthfund.org/sites/default/files/styles/countries_hero_desktop/public/country_image_Sweden.jpg?h=7115b1d8&itok=Cr7aTYFE"            
         },
         'Norway' : {   
             population: 5.4, // million
@@ -133,7 +139,9 @@ function HomePage() {
             language: "Norwegian",
             phrase1: "Hei, hvordan går det med deg?",
             phrase2: "",
-            phrase3: ""             
+            phrase3: "" ,
+            image1: "https://media.cntraveler.com/photos/5a2fdec837dada794e16bd22/master/pass/Geirangerfjord-GettyImages-482832914.jpg",
+            image2: "https://media.istockphoto.com/photos/view-on-bruges-picture-id494611794?k=20&m=494611794&s=612x612&w=0&h=GtwLqJ3YUpEnW8ex5-pNT3yzdgRC3xFrIo5bkinN5VM="            
         }               
     }
     );
