@@ -13,7 +13,9 @@ function HomePage() {
             language: "Italian",
             phrase1: "Ciao, come stai?",
             phrase2: "",
-            phrase3: ""
+            phrase3: "",
+            image1:"https://unsplash.com/photos/rknrvCrfS1k",
+            image2: "https://unsplash.com/photos/Qq1fwSLM0N0"
         },
         'England' : {     
             population: 56.0, // million
@@ -23,7 +25,9 @@ function HomePage() {
             language: "English", 
             phrase1: "Hi, how are you?",
             phrase2: "",
-            phrase3: ""                
+            phrase3: "",
+            image1:"https://unsplash.com/photos/W1Y4Y_DBGKw",
+            image2: "https://unsplash.com/photos/x0RBBSdOZQU"               
         },
         'France' : {  
             population: 67.4, // million
@@ -33,7 +37,9 @@ function HomePage() {
             language: "French",   
             phrase1: "Comment ça va?",
             phrase2: "",
-            phrase3: ""               
+            phrase3: "",
+            image1:"https://unsplash.com/photos/CB0Qrf8ib4I",
+            image2: ""               
         },
         'Scotland' : {   
             population: 5.5, // million
@@ -43,7 +49,9 @@ function HomePage() {
             language: "English, Scots",
             phrase1: "",
             phrase2: "",
-            phrase3: ""                
+            phrase3: "",
+            image1:"https://images.app.goo.gl/Cp446AawvmNDMCPM7",
+            image2: "https://images.app.goo.gl/ZW9PxGhFzMRxiaTm7"                
         },
         'Germany' : {  
             population: 83.2, // million
@@ -52,8 +60,10 @@ function HomePage() {
             currency: "Euro",
             language: "German",  
             phrase1: "Hallo, wie geht's?",
-            phrase2: "",
-            phrase3: ""                
+            phrase2: "Gut und dir?",
+            phrase3: "Auch gut, danke",
+            image1: "https://images.app.goo.gl/YgNKWzkfdM3FTJXA9",
+            image2: "https://images.app.goo.gl/EsU2FGaP9hnm4zC36"                
         },
         'Spain' : {   
             population: 47.4, // million
@@ -62,8 +72,8 @@ function HomePage() {
             currency: "Euro",
             language: "Spanish", 
             phrase1: "Hola, ¿cómo estás?",
-            phrase2: "",
-            phrase3: ""
+            phrase2: "https://images.app.goo.gl/RYrsfQJTctdmCigv8",
+            phrase3: "https://images.app.goo.gl/ZdcA2bPqPeN26G2Z7"
         },
         'Switzerland' : {
             population: 8.6, // million
